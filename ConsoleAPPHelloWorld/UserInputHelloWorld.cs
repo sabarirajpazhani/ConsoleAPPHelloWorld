@@ -2,7 +2,7 @@
 
 namespace ConsoleAPPHelloWorld
 {
-    public  class UserInputConsoleApp
+    public  class UserInputHelloWorld
     {
         static void Main(string[] args)
         {
